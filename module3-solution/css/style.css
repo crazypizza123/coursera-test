@@ -56,7 +56,7 @@ padding-left: 10px;
 }
 #title {
 font-size: 2em;
-text-align: center;
+
 font-family: 'Lora',serif;
   color: #001f3f;
 
@@ -68,11 +68,7 @@ font-family: 'Lora',serif;
 margin-bottom: 20px;
 }
 
-#main-content > h2{
-  text-align: center;
-  
-  margin-right: 20px;
-}
+
 
 @media (max-width: 767px) {
 
@@ -80,5 +76,5 @@ margin-bottom: 20px;
 
   margin-right: 20px;
   margin-left: 20px;
-  
+
   }
